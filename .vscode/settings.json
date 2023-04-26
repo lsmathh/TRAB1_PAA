@@ -34,10 +34,5 @@
     "**/.vscode/**"
   ],
   "C_Cpp_Runner.useAddressSanitizer": false,
-  "C_Cpp_Runner.showCompilationTime": false,
-  "files.associations": {
-    "TEST.C": "cpp",
-    "MERGESORT.C": "cpp"
-  },
-  "C_Cpp.errorSquiggles": "disabled"
+  "C_Cpp_Runner.showCompilationTime": false
 }
