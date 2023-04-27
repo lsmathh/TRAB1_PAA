@@ -55,10 +55,6 @@ void merge(int inicio, int meio, int fim ){
 }
 
 
-
-
-
-
 int main()
 {
     tamanhoVetor = 0;
