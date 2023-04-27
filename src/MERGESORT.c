@@ -1,3 +1,5 @@
+//MATHEUS LOPES DE SOUZA - 190043831
+
 #include "stdio.h"
 
 int vetorA[10000];
