@@ -3,6 +3,8 @@
 * Objetivo: Desenvolver os algoritmos de busca binária, mergesort e insertion sort.
 
 * Ferramenta de teste: Deve se seguir as especificações dadas pelo site Spoj.
+* Run: Dentro do diretório programasPAA/src: "gcc -o <arquivo> <arquivo.c>" e depois "./<arquivo>".
+* Inputs: Basta copiar e colar os inputs de teste abaixo.
 
 # Especificações
 
