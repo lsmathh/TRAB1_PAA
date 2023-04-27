@@ -1,7 +1,6 @@
 # Projeto e Análise de Algoritmos - Trabalho 1.
 * Objetivo: Desenvolver os algoritmos de busca binária, mergesort e insertion sort.
 + Ferramenta de teste: Deve se seguir as especificações dadas pelo site Spoj.
-<<<<<<< HEAD
 
 # Especificações:
 
