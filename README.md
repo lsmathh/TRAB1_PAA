@@ -1,10 +1,14 @@
-# Projeto e Análise de Algoritmos - Trabalho 1.
-* Objetivo: Desenvolver os algoritmos de busca binária, mergesort e insertion sort.
-+ Ferramenta de teste: Deve se seguir as especificações dadas pelo site Spoj.
+# Projeto e Análise de Algoritmos - Trabalho 1
 
-# Especificações:
+* Objetivo: Desenvolver os algoritmos de busca binária, mergesort e insertion sort.
+
+* Ferramenta de teste: Deve se seguir as especificações dadas pelo site Spoj.
+
+# Especificações
+
 
 ## MERGSORT - Mergesort
+
 Simple. Sort the numbers on the standard input using the merge sort algorithm. Don't try to cheat by just calling your build in functions... I can see your source.
 
 ### Input
@@ -13,18 +17,19 @@ On the standard input you will receive N (1 <= N <= 100000). Each number will fi
 Output
 
 ### Output
+
 the same integers in a sorted manner. Smallest to largest.
 
 ### Example
 
-+ Input:
+* Input:
 7 3 2 5 4 3
 
-+ Output:
+* Output:
 2 3 3 4 5 7
-#
 
 ## CODESPTB - Insertion Sort
+
 Insertion Sort is a classical sorting technique. One variant of insertion sort works as follows when sorting an array a[1..N] in non-descending order:
 
 for i <- 2 to N
@@ -52,14 +57,14 @@ Constraints
 
 ### Example
 
-+ Sample Input:
+* Sample Input:
 2
 5
 1 1 1 2 2
 5
 2 1 3 1 2
 
-+ Sample Output:
+* Sample Output:
 0
 4
 
@@ -68,17 +73,20 @@ Constraints
 ## BSEARCH1 - Binary search
 
 You are given a sorted array of numbers, and followed by number of queries, for each query if the queried number is present in the array print its position, else print -1.
+
 ### Input
 
 First line contains N Q, number of elements in the array and number of queries to follow.
 
 Second line contains N numbers, the elements of the array. Each number will be -10^9 <= ai <= 10^9, 0 < N <= 10^5, 0 < Q <= 5*10^5
+
 ### Output
 
 For each element in the query, print the elements 0 based location of its first occurence, if present, otherwise print -1.
+
 ### Example
 
-+ Input:
+* Input:
 5 4
 2 4 7 7 9
 7
@@ -86,7 +94,7 @@ For each element in the query, print the elements 0 based location of its first 
 4
 2
 
-+ Output:
+* Output:
 2
 -1
 1
@@ -94,9 +102,10 @@ For each element in the query, print the elements 0 based location of its first 
 
 =======
 
-# Especificações:
+# Especificações
 
 ## MERGSORT - Mergesort
+
 Simple. Sort the numbers on the standard input using the merge sort algorithm. Don't try to cheat by just calling your build in functions... I can see your source.
 
 ### Input
@@ -105,18 +114,21 @@ On the standard input you will receive N (1 <= N <= 100000). Each number will fi
 Output
 
 ### Output
+
 the same integers in a sorted manner. Smallest to largest.
 
 ### Example
 
-+ Input:
+* Input:
 7 3 2 5 4 3
 
-+ Output:
+* Output:
 2 3 3 4 5 7
+
 #
 
 ## CODESPTB - Insertion Sort
+
 Insertion Sort is a classical sorting technique. One variant of insertion sort works as follows when sorting an array a[1..N] in non-descending order:
 
 for i <- 2 to N
@@ -144,14 +156,14 @@ Constraints
 
 ### Example
 
-+ Sample Input:
+* Sample Input:
 2
 5
 1 1 1 2 2
 5
 2 1 3 1 2
 
-+ Sample Output:
+* Sample Output:
 0
 4
 
@@ -160,17 +172,20 @@ Constraints
 ## BSEARCH1 - Binary search
 
 You are given a sorted array of numbers, and followed by number of queries, for each query if the queried number is present in the array print its position, else print -1.
+
 ### Input
 
 First line contains N Q, number of elements in the array and number of queries to follow.
 
 Second line contains N numbers, the elements of the array. Each number will be -10^9 <= ai <= 10^9, 0 < N <= 10^5, 0 < Q <= 5*10^5
+
 ### Output
 
 For each element in the query, print the elements 0 based location of its first occurence, if present, otherwise print -1.
+
 ### Example
 
-+ Input:
+* Input:
 5 4
 2 4 7 7 9
 7
@@ -178,10 +193,10 @@ For each element in the query, print the elements 0 based location of its first 
 4
 2
 
-+ Output:
+* Output:
 2
 -1
 1
 0
->>>>>>> 7937764 (README)
 
+>>>>>>> 7937764 (README)
