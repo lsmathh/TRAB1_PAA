@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/matheuslopes/programasPAA",
-      "program": "/home/matheuslopes/programasPAA/build/Debug/outDebug",
+      "cwd": "/home/matheuslopes/programasPAA/src",
+      "program": "/home/matheuslopes/programasPAA/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
